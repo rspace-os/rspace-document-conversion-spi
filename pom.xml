@@ -4,7 +4,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<artifactId>rspace-document-conversion-spi</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.1</version>
 	<name>DocumentConversion interface</name>
 	<description>Abstract package of document conversion interfaces and helper classes</description>
 
