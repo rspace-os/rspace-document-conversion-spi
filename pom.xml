@@ -4,7 +4,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<artifactId>rspace-document-conversion-spi</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>DocumentConversion interface</name>
 	<description>Abstract package of document conversion interfaces and helper classes</description>
 
@@ -13,6 +13,13 @@
 		<groupId>com.github.rspace-os</groupId>
 		<version>2.0.1</version>
 	</parent>
+
+	<repositories>
+		<repository>
+			<id>jitpack.io</id>
+			<url>https://jitpack.io</url>
+		</repository>
+	</repositories>
 
 	<build>
 		<plugins>
